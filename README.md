@@ -4,6 +4,7 @@ branch.cpp 为分支限界求整数最优解
 divplane.cpp 为割平面法求整数最优解
 branch_approximate.cpp 为分支限界求近似比为10/9的整数可行解
 MonteCarlo_approximate.cpp 为修改版蒙特卡洛求整数可行解
+Generator.cpp为随机的线性规划问题生成器
 
 输入格式：
 第一行n,m表示变量x_1,x_2,...,x_n和约束的个数
